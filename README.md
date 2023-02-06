@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karina2510
-- 👀 I’m interested in -> Java Development and Development JavaScript
+- 👀 I’m interested in -> Developer Full Stack
 - 🌱 I’m currently learning -> Java
 - 💞️ I’m looking to collaborate on -> Backend Java
 
